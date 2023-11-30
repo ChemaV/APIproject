@@ -24,8 +24,8 @@ body {
 }
 
 .card {
-  width: 15rem;
-  margin: 4px; 
+  width: 20rem;
+  margin: auto; 
 }
 
 #card-text {
