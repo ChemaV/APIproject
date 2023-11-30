@@ -28,6 +28,16 @@ nav {
   z-index: 1000;
 }
 
+.navlist {
+  float: right;
+  margin-top: 40px;
+  display: flex;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
 .card {
   width: 20rem;
   margin: auto; 
