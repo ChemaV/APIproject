@@ -1,7 +1,18 @@
 #game {
     display: flex;
     flex-wrap: wrap;
-    justify-content: center;
+    justify-content: space-around;
+  }
+
+#cartas {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.card {
+  width: 15rem;
+  margin: 4px; 
 }
 
 #card-text {
