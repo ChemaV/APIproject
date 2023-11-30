@@ -1,0 +1,9 @@
+#game {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+#card-text {
+    font-size: 12px;
+}
