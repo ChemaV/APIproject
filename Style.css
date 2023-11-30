@@ -40,7 +40,8 @@ nav {
 
 .card {
   width: 20rem;
-  margin: auto; 
+  margin: auto;
+  background-color: #25282A; 
 }
 
 #card-text {
