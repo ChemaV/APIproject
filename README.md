@@ -1,14 +1,15 @@
 # 🚀 API Project
 
-Desarrollar una página web con HTML, CSS, Javascript
 
-Consumir una API externa
+🎮 Desarrollar una página web con HTML, CSS, Javascript
 
-Mostrar los datos en tarjetas, tablas, etc
+🌐 Consumir una API externa
 
-Subir a Github y que esté documentado con su respectivo README
+📊 Mostrar los datos en tarjetas, tablas, etc
 
-Utilizar Bootstrap o SASS
+📌 Subir a Github y que esté documentado con su respectivo README
+
+🎨 Utilizar Bootstrap o SASS
 
 ​
 
