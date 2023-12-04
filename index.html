@@ -11,23 +11,30 @@
       crossorigin="anonymous"
     />
     <link rel="stylesheet" href="Style.css" />
+    <style>
+      @import url("https://fonts.cdnfonts.com/css/helvetica-neue-55");
+    </style>
   </head>
   <body>
     <header>
-      <nav clas="Navegacion">
+      <div class="logo-container">
+        <img src="mando.png" alt="logo" class="logo" />
+      </div>
+      <nav class="Navegacion">
         <ul id="navlist">
-          <li clas="nav-bar">Noticias</li>
-          <li clas="nav-bar">Plataformas</li>
-          <li clas="nav-bar">últimos lanzamientos</li>
-          <li clas="nav-bar">Contacto</li>
-          <li clas="nav-bar">Visítanos</li>
+          <li class="nav-item">Noticias</li>
+          <li class="nav-item">Plataformas</li>
+          <li class="nav-item">Lanzamientos</li>
+          <li class="nav-item">Contacto</li>
         </ul>
       </nav>
     </header>
+
     <div id="cartas" class="container"></div>
     <script src="app.js"></script>
-  </body>
-  <footer>
-    
-  </footer>
+  
+    <footer>
+      <p>&copy; 2023 - Reseñando los mejores juegos</p>
+    </footer>
+</body>
 </html>

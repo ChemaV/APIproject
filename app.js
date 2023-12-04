@@ -37,3 +37,7 @@ fetchData(GAMES_URL).then((gameData) => {
   });
   document.getElementById("cartas").innerHTML = html;
 });
+
+
+
+
