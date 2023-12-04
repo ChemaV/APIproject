@@ -1,6 +1,4 @@
-# API project
-
-
+# 🚀 API Project
 
 Desarrollar una página web con HTML, CSS, Javascript
 
@@ -14,19 +12,19 @@ Utilizar Bootstrap o SASS
 
 ​
 
-EXTRA:
+## EXTRA:
 
+- 📄 Los resultados se paginan
 
-Los resultados se paginan
+- 🔍 Ver el detalle de un solo elemento
 
-Ver el detalles de un solo elemento
+- 🎛 Filtrar la información traída por la API
 
-Filtrar la información traída por la API
+- 🚀 Hacer Deploy en Github
 
-Hacer Deploy en Github
+- 🔄 Consumir N APIs
 
-Consumir N APIs
+- 📋 Crear un JSON y consumir la información
 
-Crear un Json y consumir la información
+- ✅ Validar con alguna función de Javascript el funcionamiento de la página (test)
 
-Validar con alguna función de Javascript el funcionamiento de la página (test)
