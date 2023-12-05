@@ -2,22 +2,11 @@ body {
   background-color: #101820;
 }
 
-#game {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-around;
-}
-
-#cartas {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-around;
-}
-
 .container {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
+  padding: 60px;
 }
 header {
   display: flex;
@@ -80,6 +69,11 @@ p.card-text {
   color: #e2e2e2;
 }
 
+.page-link {
+  background-color: transparent;
+  color: #E8FF66;
+}
+
  footer{
   display: flex;
   background-color: #1b232c;
@@ -87,5 +81,5 @@ p.card-text {
   font-family: "Helvetica Neue", sans-serif;
   font-size: 14px;
   padding: 5px;
-  margin: 5px; 
+  margin: 0px; 
 }
