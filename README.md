@@ -1,32 +1,31 @@
-# APIproject
+# 🚀 API Project
 
 
+🎮 Desarrollar una página web con HTML, CSS, Javascript
 
-Desarrollar una página web con HTML, CSS, Javascript
+🌐 Consumir una API externa
 
-Consumir una API externa
+📊 Mostrar los datos en tarjetas, tablas, etc
 
-Mostrar los datos en tarjetas, tablas, etc
+📌 Subir a Github y que esté documentado con su respectivo README
 
-Subir a Github y que esté documentado con su respectivo README
-
-Utilizar Bootstrap o SASS
+🎨 Utilizar Bootstrap o SASS
 
 ​
 
-EXTRA:
+## EXTRA:
 
+- 📄 Los resultados se paginan
 
-Los resultados se paginan
+- 🔍 Ver el detalle de un solo elemento
 
-Ver el detalles de un solo elemento
+- 🎛 Filtrar la información traída por la API
 
-Filtrar la información traída por la API
+- 🚀 Hacer Deploy en Github
 
-Hacer Deploy en Github
+- 🔄 Consumir N APIs
 
-Consumir N APIs
+- 📋 Crear un JSON y consumir la información
 
-Crear un Json y consumir la información
+- ✅ Validar con alguna función de Javascript el funcionamiento de la página (test)
 
-Validar con alguna función de Javascript el funcionamiento de la página (test)
