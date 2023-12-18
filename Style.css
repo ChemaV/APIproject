@@ -8,12 +8,13 @@ body {
   justify-content: space-around;
   padding: 60px;
 }
+
 header {
   display: flex;
   justify-content: space-between;
   align-items: center;
   background-color: #7A8087;
-  padding: 0px;
+  padding: 10px; 
   margin-top: 0;
 }
 
@@ -30,6 +31,7 @@ header {
   display: flex;
   align-items: left;
 }
+
 .logo {
   width: 110px;
   height: auto;
@@ -54,12 +56,12 @@ header {
 }
 
 .card {
-  width: 20rem;
-  margin: auto;
+  width: 100%; 
+  margin: 10px 0; 
   background-color: #7A8087;
 }
 
-.card-title{
+.card-title {
   font-size: 18px;
   color: #e2e2e2;
 }
@@ -74,12 +76,32 @@ p.card-text {
   color: #E8FF66;
 }
 
- footer{
+footer {
   display: flex;
   background-color: #1b232c;
   color: #E8FF66;
   font-family: "Helvetica Neue", sans-serif;
   font-size: 14px;
   padding: 5px;
-  margin: 0px; 
+  margin: 0px;
+}
+
+
+@media only screen and (max-width: 600px) {
+  header {
+    padding: 5px; 
+  }
+
+  .container {
+    padding: 20px; 
+  }
+
+  .nav-item {
+    font-size: 14px; 
+  }
+
+  .card {
+    width: 100%; 
+    margin: 10px 0; 
+  }
 }
